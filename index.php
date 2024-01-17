@@ -5,6 +5,7 @@
 <html amp lang="id">
 <head>
     <meta charset="UTF-8">
+	<meta name="google-site-verification" content="4-JMFZRkcSmQU_aZ7GktBHuVFYx0EsVSmFIWkzpXNZk" />
     <meta name="viewport" content="width=device-width,maximum-scale=1">
     <meta http-equiv="content-language" content="id">
     <link rel="canonical" href="https://cayangkamoe.github.io/selalu-selamanya/">
