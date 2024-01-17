@@ -1,11 +1,13 @@
 
+
+
 <!DOCTYPE html>
 <html amp lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,maximum-scale=1">
     <meta http-equiv="content-language" content="id">
-    <link rel="canonical" href="">
+    <link rel="canonical" href="https://cayangkamoe.github.io/selalu-selamanya/">
     <title>SLOT BONUS - KLAIM BONUS GARANSI KELAHAN SLOT 100% CUMI 77</title>
     <meta name="description" content="mainkan slot bonus new member 100 di awal atau depan yang sudah disediakan oleh situs Cumi77 dengan to kecil yaitu depo 25 bonus 25.">
     <meta name="keywords" content="slot bonus, slot bonus new member, bonus new member, slot bonus new member 100, slot bonus new member 100 di awal, slot bonus new member 100 di depan, slot bonus new member to kecil">
